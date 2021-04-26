@@ -7,6 +7,8 @@ jQuery(document).ready(function($){
       "assets/img/bg/bg1.jpg"
     , "assets/img/bg/bg2.jpg"
     , "assets/img/bg/bg3.jpg"
+    , "assets/img/bg/bg4.jpg"
+    , "assets/img/bg/bg5.jpg"
   ], {duration: 5000, fade: 500});
 });
 
