@@ -69,7 +69,7 @@ textarea {
 #content-wrapper {
     max-width: 1270px;
     margin: 0 auto;
-    background-color: #fff;
+    background-color: rgba(255, 250, 250, 0.3);
 }
 
 body {
